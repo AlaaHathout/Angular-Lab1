@@ -15,6 +15,10 @@ export class NavbarComponent {
     alert('About clicked');
   }
 
+  onProducts() {
+    alert('Products clicked');
+  }
+
   onContact() {
     alert('Contact clicked');
   }
